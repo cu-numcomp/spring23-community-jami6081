@@ -10,39 +10,34 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL | https://github.com/SciML/NonlinearSolve.jl   |
+| Main/documentation website |   https://docs.sciml.ai/NonlinearSolve/stable/ |
+| Year project was started | Nov 22 2020  |
+| Number of contributors in the past year | In the last year there has been 18 contributors |
+| Number of contributors in the lifetime of the project | Over the lifetime of this project 23 people have contributed to this project  |
+| Number of distinct affiliations | 1 MIT |
+| Where do development discussions take place? | I believe discussions take place in a github chat  |
+| Typical number of emails/comments per week? | There are several conversations per day, cant tell the weekly amount |
+| Typical number of commits per week? | anywhere from 5-43 |
+| Typical commit size | A commit usualy contains one file change, 1 insertion, and 1 deletion. Some updates are much larger including 1 file changed, 37 insertions, 44 deletions |
+| How does the project accept contributions? | This software presents a guide on contribution, some of the steps include code being reviewed by an approved contributor and the code being written in a similar style to what is already existing  |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes|
+| Are any legal/licensing steps required to contribute? | As far as I can tell there are no liciensing or legal steps required, only review and approval of new content|
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [x] I have installed the software
+- [x] I have run at least one example
+- [x] I have run the test suite
+- [x] The test suite passes
 
 ### Notes/concerns/risks
 
-Please comment on any anomalies or known risks to following this
-project, if you were unable to answer any questions above, or
-otherwise have concerns about the appropriateness of the software.  If
-the project requires a contributor license agreement or other
-procedural steps, please explain here.  "None at this time" is
-acceptable for this question.
+"None at this time"
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
